@@ -1,0 +1,41 @@
+#bar {
+  height: 160px;
+  width: 120px;
+  background-color: rgb(27, 26, 26);
+  margin: 0 auto;
+}
+
+
+#box {
+  height: 600px;
+  width: 300px;
+  background-color: black;
+  margin: 0 auto;
+  padding-top: 2em;
+}
+
+.red {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  background-color: red;
+  margin:auto;
+  padding-top: 2em;
+}
+
+.yellow {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  background-color: yellow;
+  margin:auto;
+}
+
+.green {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  background-color: green;
+  margin:auto;
+}
+
