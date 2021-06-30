@@ -1,17 +1,16 @@
-
-
 let playerChoice = {
-choice:'rock',
-choice:'paper',
-choice:'scissors',
+choice1:'rock',
+choice2:'paper',
+choice3:'scissors',
 }
 
 
 
-function play(){
+function play(playerChoice){
     
-  
+    console.log(playerChoice)
 }
+
 
 
 
